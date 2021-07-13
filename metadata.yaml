@@ -1,0 +1,36 @@
+_repo: Egy-ev-tortenelem-Jegyzetek-1914-tavaszatol-1915-nyaraig_65694
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ignotus
+    aliases:
+    - Ignotus, Hugo
+    - Veigelsberg, Hugó
+    - Ignotus, Hugó
+    - Emma
+    birthdate: 1869
+    deathdate: 1949
+    gutenberg_agent_id: '52081'
+    url: http://www.gutenberg.org/2009/agents/52081
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/Ignotus_Hug%C3%B3
+    - https://en.wikipedia.org/wiki/Ignotus
+description: ''
+gutenberg_issued: '2021-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65694'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+- GITenberg
+tableOfContents: Katonaság -- Risztovác -- Hartwig -- Amerika -- Háboru -- A mi háborunk
+  -- Búcsú -- A hazáról -- A német -- Suvalkitól Szigetig -- Ilyenkor -- Regele Carol
+  -- Militarizmus -- A magyar -- Aztánra; és mostanra -- Jegyzetek -- Revizió és revizionizmus
+  -- A háboru mint természeti törvény -- Cognosco Stilum -- Jegyzetek -- Egy év halál.
+title: 'Egy év történelem: Jegyzetek 1914 tavaszától 1915 nyaráig'
+url: http://www.gutenberg.org/ebooks/65694
