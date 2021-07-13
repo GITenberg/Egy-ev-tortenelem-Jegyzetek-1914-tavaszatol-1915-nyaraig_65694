@@ -1,5 +1,8 @@
 _repo: Egy-ev-tortenelem-Jegyzetek-1914-tavaszatol-1915-nyaraig_65694
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ignotus
@@ -16,6 +19,8 @@ creator:
     - https://hu.wikipedia.org/wiki/Ignotus_Hug%C3%B3
     - https://en.wikipedia.org/wiki/Ignotus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65694#Egy-ev-tortenelem-Jegyzetek-1914-tavaszatol-1915-nyaraig
 gutenberg_issued: '2021-06-25'
 gutenberg_type: Text
 identifiers:
